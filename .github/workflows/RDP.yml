@@ -1,4 +1,4 @@
-name: FreeRDP
+name: RUNNING
 
 on: workflow_dispatch
 
